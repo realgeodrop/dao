@@ -1,0 +1,21 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dao-staging-10428-authRole",
+      "UnauthRoleArn": "arn:aws:iam::155263316185:role/amplify-dao-staging-10428-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::155263316185:role/amplify-dao-staging-10428-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-dao-staging-10428-deployment",
+      "UnauthRoleName": "amplify-dao-staging-10428-unauthRole",
+      "StackName": "amplify-dao-staging-10428",
+      "StackId": "arn:aws:cloudformation:us-east-2:155263316185:stack/amplify-dao-staging-10428/ced75ac0-c987-11eb-9971-02a4c5fb9c78",
+      "AmplifyAppId": "dw4r9q1nfm08t",
+      "AuthTriggerTemplateURL": ""
+    },
+    "categories": {
+      "auth": {
+        "Dao": {}
+      }
+    }
+  }
+}
